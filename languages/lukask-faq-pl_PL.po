@@ -1,0 +1,154 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple FAQ by LukasK\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-07-07 19:56+0000\n"
+"PO-Revision-Date: 2017-07-07 20:06+0000\n"
+"Last-Translator: Lukas <l.kirylak@gmail.com>\n"
+"Language-Team: Polish\n"
+"Language: pl-PL\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10 >= 2 && n%10<=4 "
+"&&(n%100<10||n%100 >= 20)? 1 : 2)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#. Description of the plugin
+msgid ""
+"Simple plugin for FAQ (Q&A). Allows  you to define HTML skeleton and adds "
+"FAQ post-like section to admin panel. You can add question and answer using "
+"WordPress admin panel. You can display FAQ using shortcode [lukask-faq]."
+msgstr ""
+"Prosty plugin do FAQ (Q&A). Umożliwia zdefiniowanie szkieletu HTML oraz "
+"dodaje strukturę podobną do postów do dodwania pytań i odpowiedzi. Możesz "
+"dodawać pytania i odpowiadać na nie używając panelu admina WordPress. Możesz "
+"wyświetlić swoje FAQ używając shortcode [lukask-faq]."
+
+#: lukask-faq.php:64 lukask-faq.php:67 lukask-faq.php:82
+msgid "FAQ"
+msgstr "FAQ"
+
+#: lukask-faq.php:68
+msgid "FAQs"
+msgstr "FAQ"
+
+#: lukask-faq.php:69
+msgid "Add new question"
+msgstr "Dodaj nowe pytanie"
+
+#: lukask-faq.php:70
+msgid "Edit question"
+msgstr "Edytuj pytanie"
+
+#: lukask-faq.php:71
+msgid "New question"
+msgstr "Nowe pytanie"
+
+#: lukask-faq.php:72
+msgid "View question"
+msgstr "Zobacz pytanie"
+
+#: lukask-faq.php:73
+msgid "View questions"
+msgstr "Zobacz pytania"
+
+#: lukask-faq.php:74
+msgid "Search questions"
+msgstr "Przeszukaj pytania"
+
+#: lukask-faq.php:75
+msgid "No questions found"
+msgstr "Nie znaleziono pytań"
+
+#: lukask-faq.php:76
+msgid "No questions found in trash"
+msgstr "Nie znaleziono pytań w koszu"
+
+#: lukask-faq.php:77
+msgid "Parent question:"
+msgstr "Pytanie nadrzędne:"
+
+#: lukask-faq.php:78
+msgid "All questions"
+msgstr "Wszystkie pytania"
+
+#: lukask-faq.php:79
+msgid "Question attributes"
+msgstr "Atrybuty pytania"
+
+#: lukask-faq.php:80
+msgid "Insert into question"
+msgstr "Dodaj do pytania"
+
+#: lukask-faq.php:81
+msgid "Uploaded to this question"
+msgstr "Dodane do tego pytania"
+
+#: lukask-faq.php:85
+msgid "Post type to create questions and answers."
+msgstr "Typ postu do tworzenia pytań i odpowiedzi"
+
+#: lukask-faq.php:136
+msgid "No questions aswered yet!"
+msgstr "Nie odpowiedziano jeszcze na żadne pytanie!"
+
+#: lukask-faq.php:144 lukask-faq.php:144 lukask-faq.php:234
+msgid "FAQ settings"
+msgstr "Ustawienia FAQ"
+
+#: lukask-faq.php:153
+msgid "FAQ HTML options"
+msgstr "Ustawienia HTML dla FAQ"
+
+#: lukask-faq.php:160
+msgid "Before question"
+msgstr "Przed pytaniem"
+
+#: lukask-faq.php:169
+msgid "After question"
+msgstr "Po pytaniu"
+
+#: lukask-faq.php:178
+msgid "Before answer"
+msgstr "Przed odpowiedzią"
+
+#: lukask-faq.php:187
+msgid "After answer"
+msgstr "Po odpowiedzi"
+
+#: lukask-faq.php:196
+msgid "Before block"
+msgstr "Przed blokiem"
+
+#: lukask-faq.php:205
+msgid "After block"
+msgstr "Po bloku"
+
+#: lukask-faq.php:214
+msgid "Before FAQ section"
+msgstr "Przed sekcją FAQ"
+
+#: lukask-faq.php:223
+msgid "After FAQ section"
+msgstr "Po sekcji FAQ"
+
+#: lukask-faq.php:248
+msgid ""
+"Determine how the questions and answers are displayed on site. (You can "
+"display your FAQ using shortcode [lukask_faq])"
+msgstr ""
+"Ustal, jak pytania i odpowiedzi mają być wyświetlane na twojej stronie. "
+"(Sekcje FAQ możesz wyświetlić używając shortcode [lukask_faq])"
+
+#. Name of the plugin
+msgid "Simple FAQ by LukasK"
+msgstr "Proste FAQ by LukasK"
+
+#. Author of the plugin
+msgid "Łukasz Kirylak"
+msgstr "Łukasz Kirylak"
+
+#. Author URI of the plugin
+msgid "http://lukask.pl/"
+msgstr "http://lukask.pl/"

@@ -1,0 +1,148 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-07-07 20:04+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: lukask-faq.php:64 lukask-faq.php:67 lukask-faq.php:82
+msgid "FAQ"
+msgstr ""
+
+#: lukask-faq.php:68
+msgid "FAQs"
+msgstr ""
+
+#: lukask-faq.php:69
+msgid "Add new question"
+msgstr ""
+
+#: lukask-faq.php:70
+msgid "Edit question"
+msgstr ""
+
+#: lukask-faq.php:71
+msgid "New question"
+msgstr ""
+
+#: lukask-faq.php:72
+msgid "View question"
+msgstr ""
+
+#: lukask-faq.php:73
+msgid "View questions"
+msgstr ""
+
+#: lukask-faq.php:74
+msgid "Search questions"
+msgstr ""
+
+#: lukask-faq.php:75
+msgid "No questions found"
+msgstr ""
+
+#: lukask-faq.php:76
+msgid "No questions found in trash"
+msgstr ""
+
+#: lukask-faq.php:77
+msgid "Parent question:"
+msgstr ""
+
+#: lukask-faq.php:78
+msgid "All questions"
+msgstr ""
+
+#: lukask-faq.php:79
+msgid "Question attributes"
+msgstr ""
+
+#: lukask-faq.php:80
+msgid "Insert into question"
+msgstr ""
+
+#: lukask-faq.php:81
+msgid "Uploaded to this question"
+msgstr ""
+
+#: lukask-faq.php:85
+msgid "Post type to create questions and answers."
+msgstr ""
+
+#: lukask-faq.php:136
+msgid "No questions aswered yet!"
+msgstr ""
+
+#: lukask-faq.php:144 lukask-faq.php:144 lukask-faq.php:234
+msgid "FAQ settings"
+msgstr ""
+
+#: lukask-faq.php:153
+msgid "FAQ HTML options"
+msgstr ""
+
+#: lukask-faq.php:160
+msgid "Before question"
+msgstr ""
+
+#: lukask-faq.php:169
+msgid "After question"
+msgstr ""
+
+#: lukask-faq.php:178
+msgid "Before answer"
+msgstr ""
+
+#: lukask-faq.php:187
+msgid "After answer"
+msgstr ""
+
+#: lukask-faq.php:196
+msgid "Before block"
+msgstr ""
+
+#: lukask-faq.php:205
+msgid "After block"
+msgstr ""
+
+#: lukask-faq.php:214
+msgid "Before FAQ section"
+msgstr ""
+
+#: lukask-faq.php:223
+msgid "After FAQ section"
+msgstr ""
+
+#: lukask-faq.php:248
+msgid ""
+"Determine how the questions and answers are displayed on site. (You can "
+"display your FAQ using shortcode [lukask_faq])"
+msgstr ""
+
+#. Name of the plugin
+msgid "Simple FAQ by LukasK"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Simple plugin for FAQ (Q&A). Allows  you to define HTML skeleton and adds "
+"FAQ post-like section to admin panel. You can add question and answer using "
+"WordPress admin panel. You can display FAQ using shortcode [lukask_faq]."
+msgstr ""
+
+#. Author of the plugin
+msgid "Łukasz Kirylak"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://lukask.pl/"
+msgstr ""
